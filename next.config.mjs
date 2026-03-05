@@ -1,8 +1,7 @@
-const nextConfig = {
-  output: "export",   // ADD THIS
 
-  basePath: "/food-project",   // ADD THIS (your repo name)
-  assetPrefix: "/food-project/",   // ADD THIS
+const nextConfig = {
+  output: "export",
+  basePath: "/food-project",
 
   typescript: {
     ignoreBuildErrors: true,

@@ -3,7 +3,7 @@
 3:I[7356,["/food-project/_next/static/chunks/5c4ec5d8b3b55d69.js","/food-project/_next/static/chunks/8df4c3d439db60f9.js","/food-project/_next/static/chunks/956de963f1559bca.js"],"default"]
 6:I[42737,["/food-project/_next/static/chunks/472f753d5b7fe66f.js","/food-project/_next/static/chunks/682e7bc866402c4c.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"BGWV9VPzBwIy6oFr5ki-f","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/food-project/_next/static/chunks/956de963f1559bca.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"mr4kpD5KKxAWiBurqTxJE","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/food-project/_next/static/chunks/956de963f1559bca.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null

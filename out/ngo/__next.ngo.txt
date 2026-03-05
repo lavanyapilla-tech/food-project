@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[992,["/food-project/_next/static/chunks/472f753d5b7fe66f.js","/food-project/_next/static/chunks/682e7bc866402c4c.js"],"default"]
 3:I[79681,["/food-project/_next/static/chunks/472f753d5b7fe66f.js","/food-project/_next/static/chunks/682e7bc866402c4c.js"],"default"]
-0:{"buildId":"BGWV9VPzBwIy6oFr5ki-f","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"mr4kpD5KKxAWiBurqTxJE","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

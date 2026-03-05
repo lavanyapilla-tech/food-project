@@ -1,5 +1,5 @@
 :HL["/food-project/_next/static/chunks/62d4263c3b2bf465.css","style"]
-:HL["/food-project/_next/static/chunks/7786b636f2eff25c.css","style"]
+:HL["/food-project/_next/static/chunks/8564a60ab2a744f6.css","style"]
 :HL["/food-project/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/food-project/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"BGWV9VPzBwIy6oFr5ki-f","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"ngo","paramType":null,"paramKey":"ngo","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"mr4kpD5KKxAWiBurqTxJE","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"ngo","paramType":null,"paramKey":"ngo","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
